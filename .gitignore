@@ -1,0 +1,14 @@
+# Зависимости
+node_modules/
+
+# Лог-файлы
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Персональные конфигурации
+.env
+
+# IDE и редакторы
+.vscode/
+.idea/
